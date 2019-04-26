@@ -30,26 +30,6 @@ Last login: Mon Feb 19 18:02:06 2018 from 10.0.2.2
 Now using node v7.10.0 (npm v4.2.0)
 
 Welcome to your Firehose Web Dev Environment
-For more info check out theFirehoseProject.com
-
-[Web Dev]: /vagrant $ 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Web Dev]: /vagrant $
